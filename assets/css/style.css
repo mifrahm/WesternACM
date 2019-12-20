@@ -1273,6 +1273,7 @@ General Styles - Owlcarousel
 .navbar-custom .nav li > a {
   position: relative;
   color: rgba(255, 255, 255, 0.7);
+  padding-top: 28px;
 }
 
 .navbar-custom .dropdown-menu > li > a {
